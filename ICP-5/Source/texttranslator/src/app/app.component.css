@@ -1,0 +1,6 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.image{
+  height:60em; background-size:cover; width:100%;
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEHt4t-80Gr6XXBXmW6hPPvffCwZfqgS6_knUajvaco20zxrX');
+  background-position:100% 100%;
+}
