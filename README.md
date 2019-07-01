@@ -14,3 +14,6 @@ Wiki - https://github.com/sindhusha-t/web-mobile-programming/wiki/ICP-3
 
 ### ICP-4:
 https://github.com/sindhusha-t/web-mobile-programming/tree/master/ICP-4
+
+### LAB ASSIGNMENT - 1:
+Video Link: https://youtu.be/4IhiRIyRgGo
