@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sravan pagadala\\Downloads\\CSEE5590_Web-Cloud-Mobile_Lab-master\\CSEE5590_Web-Cloud-Mobile_Lab-master\\Lab_3\\code\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sravan pagadala\\.gradle\\caches\\transforms-2\\files-2.1\\bbc1345c2649174548eb6d8760a28644\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sravan pagadala\\Downloads\\CSEE5590_Web-Cloud-Mobile_Lab-master\\CSEE5590_Web-Cloud-Mobile_Lab-master\\Lab_3\\code\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sravan pagadala\\.gradle\\caches\\transforms-2\\files-2.1\\bbc1345c2649174548eb6d8760a28644\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
